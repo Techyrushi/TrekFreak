@@ -7,14 +7,10 @@ Database Configuration
 Open phpmyadmin
 Create Database tms
 Import database tms.sql (available inside zip package)
-Open Your browser put inside browser ìhttp://localhost/tmsî
+Open Your browser put inside browser ‚Äúhttp://localhost/tms‚Äù
 
 Login Details for admin : 
-Open Your browser put inside browser ìhttp://localhost/tms/adminî
+Open Your browser put inside browser ‚Äúhttp://localhost/tms/admin‚Äù
 Username : admin
 Password : Test@123
 
-Login Details for user: 
-Open Your browser put inside browser ìhttp://localhost/tms/î
-Username : anuj@gmail.com
-Password : Test@123
